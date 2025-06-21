@@ -22,7 +22,6 @@
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -50,19 +49,13 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-
-Description of the project in details.
+A meeting website with a working database and complexity.
 
 ### Key Components
 
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-
 - Authentication & Authorization
 - CRUD Operations for Invetory System
-
+- Database that sorts, delete, and updates user data.
 ### Technology
 
 <!-- TODO: List of Technology Used -->
